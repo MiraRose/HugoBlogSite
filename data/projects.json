@@ -1,0 +1,14 @@
+{
+    "list": [
+       {
+          "name":"SquareFootGarden",
+          "url":"https://www.mirandaregan.com/SquareGardenApp/",
+          "desc":"A web app for planning raised bed gardens"
+       },
+       {
+          "name":"Advent of Code 2020",
+          "url":"https://github.com/MiraRose/AdventOfCode2020",
+          "desc":"Puzzles solved from Advent of Code 2020"
+       }
+    ]
+ }

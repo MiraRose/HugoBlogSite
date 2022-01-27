@@ -1,0 +1,62 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "The Worlds of Miranda Regan"
+theme = ["cactus", "hugo-shortcode-gallery"]
+copyright = "Miranda Regan"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/posts"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 7
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Photography"
+url = "/photography"
+weight = 4
+
+[[menu.main]]
+name = "Art"
+url = "/art"
+weight = 5
+
+[[menu.main]]
+name = "Code"
+url = "/code"
+weight = 6
+
+[params]
+
+  description = "Worlds written with code & words and drawn in ink by Miranda Regan."
+
+  logo = "logo.jpg"
+  favicon = "logo.jpg"
+  showProjectsList = true
+  projectsUrl = "https://github.com/mirarose"
+  postsOnHomePage = 5
+  galleryLoadJQuery = true
+
+  [[params.social]]
+  name = "github"
+  link = "https://github.com/mirarose"
+  
+  [[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/mirandaregan/"
+
+  

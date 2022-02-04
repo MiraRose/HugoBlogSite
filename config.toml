@@ -1,7 +1,7 @@
 baseURL = "https://mirandaregan.com"
 languageCode = "en-us"
 title = "The Worlds of Miranda Regan"
-theme = ["cactus", "hugo-shortcode-gallery"]
+theme = ["hugo-theme-cactus", "hugo-shortcode-gallery"]
 copyright = "Miranda Regan"
 
 

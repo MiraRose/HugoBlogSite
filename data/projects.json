@@ -9,6 +9,11 @@
           "name":"Advent of Code 2020",
           "url":"https://github.com/MiraRose/AdventOfCode2020",
           "desc":"Puzzles solved from Advent of Code 2020"
-       }
+       },
+       {
+         "name":"Groobles",
+         "url":"https://github.com/MiraRose/Groobles",
+         "desc":"A browser based monster combiner"
+      }
     ]
  }
